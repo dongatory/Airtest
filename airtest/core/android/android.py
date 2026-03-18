@@ -1138,4 +1138,4 @@ class Android(Device):
 Android.minicap=property(lambda self: self.get_deprecated_var("minicap", "screen_proxy"))
 Android.javacap=property(lambda self: self.get_deprecated_var("javacap", "screen_proxy"))
 Android.minitouch=property(lambda self: self.get_deprecated_var("minitouch", "touch_proxy"))
-Android.maxtouch=property(lambda self: self.get_deprecated_var("maxtouch", "touch_proxy"))
+Android.maxtouch=property(lambda self: self.get_deprecated_var("maxtouch", "touch_proxy"))# update
