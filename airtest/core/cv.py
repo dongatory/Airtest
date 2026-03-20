@@ -289,3 +289,4 @@ class Predictor(object):
             predict_x_radius, predict_y_radius = int(image_wh[0] / 2) + cls.DEVIATION, int(image_wh[1] / 2) + cls.DEVIATION
         area = (x - predict_x_radius, y - predict_y_radius, x + predict_x_radius, y + predict_y_radius)
         return area
+# update
