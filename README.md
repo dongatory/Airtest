@@ -11,14 +11,14 @@
 <p align="center">
   <a href="https://twitter.com/dongatory"><img src="https://img.shields.io/badge/%40dongatory-verified-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="@dongatory verified" /></a>
   <a href="https://vn.linkedin.com/in/dong-nguyen-095714138"><img src="https://img.shields.io/badge/Dong%20Nguyen-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bags.fm/$dongatory"><img src="https://img.shields.io/badge/bags.fm-%24dongatory-000000?style=flat-square" alt="bags.fm" /></a>
+  <a href="https://bags.fm/AfvuTpZXLEkQ6CFG1kdw9Wx7wfCdTnVHhniUbxtDBAGS"><img src="https://img.shields.io/badge/bags.fm-%24dongatory-000000?style=flat-square" alt="bags.fm" /></a>
   <img src="https://img.shields.io/badge/Based_in-Hanoi%2C_Vietnam-DA251D?style=flat-square" alt="Hanoi, Vietnam" />
   <img src="https://img.shields.io/badge/Rust-stable-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License" />
 </p>
 
 <p align="center">
-  <code>Contract Address: SOON</code>
+  <code>Contract Address: AfvuTpZXLEkQ6CFG1kdw9Wx7wfCdTnVHhniUbxtDBAGS</code>
 </p>
 
 ---
@@ -151,11 +151,11 @@ pub fn physics_step(world: &mut World, dt: f32) {
 
 ## $GEARS
 
-$GEARS exists to fund my entry into the [Bags.fm hackathon](https://bags.fm/$dongatory) -- bringing AI-powered game creation to the Bags ecosystem. A creator economy where anyone can build, publish, and monetize games from natural language.
+$GEARS exists to fund my entry into the [Bags.fm hackathon](https://bags.fm/AfvuTpZXLEkQ6CFG1kdw9Wx7wfCdTnVHhniUbxtDBAGS) -- bringing AI-powered game creation to the Bags ecosystem. A creator economy where anyone can build, publish, and monetize games from natural language.
 
 I proved a three-day game can become the most downloaded app on Earth. Now I want to give everyone else the tools to do the same.
 
-Trade $GEARS on [bags.fm/$dongatory](https://bags.fm/$dongatory).
+Trade $GEARS on [bags.fm/$dongatory](https://bags.fm/AfvuTpZXLEkQ6CFG1kdw9Wx7wfCdTnVHhniUbxtDBAGS).
 
 ---
 
@@ -164,7 +164,7 @@ Trade $GEARS on [bags.fm/$dongatory](https://bags.fm/$dongatory).
 | **Twitter** | [@dongatory](https://twitter.com/dongatory) |
 | **Company** | [DOTGEARS](https://dotgears.com) |
 | **LinkedIn** | [Nguyen Ha Dong](https://vn.linkedin.com/in/dong-nguyen-095714138) |
-| **Bags** | [bags.fm/$dongatory](https://bags.fm/$dongatory) |
+| **Bags** | [bags.fm/$dongatory](https://bags.fm/AfvuTpZXLEkQ6CFG1kdw9Wx7wfCdTnVHhniUbxtDBAGS) |
 | **Email** | contact@dotgears.com |
 | **Location** | Hanoi, Vietnam |
 
